@@ -1,0 +1,14 @@
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\итоговая контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\итоговая контрольная.AssemblyInfoInputs.cache
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\итоговая контрольная.AssemblyInfo.cs
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\итоговая контрольная.csproj.CoreCompileInputs.cache
+C:\Users\TBG\Desktop\итоговая контрольная\bin\Debug\net8.0\итоговая контрольная.exe
+C:\Users\TBG\Desktop\итоговая контрольная\bin\Debug\net8.0\итоговая контрольная.deps.json
+C:\Users\TBG\Desktop\итоговая контрольная\bin\Debug\net8.0\итоговая контрольная.runtimeconfig.json
+C:\Users\TBG\Desktop\итоговая контрольная\bin\Debug\net8.0\итоговая контрольная.dll
+C:\Users\TBG\Desktop\итоговая контрольная\bin\Debug\net8.0\итоговая контрольная.pdb
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\итоговая контрольная.dll
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\refint\итоговая контрольная.dll
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\итоговая контрольная.pdb
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\итоговая контрольная.genruntimeconfig.cache
+C:\Users\TBG\Desktop\итоговая контрольная\obj\Debug\net8.0\ref\итоговая контрольная.dll
